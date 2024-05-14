@@ -1,5 +1,15 @@
 # dashboard
 
+## 0.4.0
+
+### Minor Changes
+
+- dfea2ec: an exciting feature has been added
+
+### Patch Changes
+
+- 8708229: make a change to the homepage
+
 ## 0.3.1
 
 ### Patch Changes
