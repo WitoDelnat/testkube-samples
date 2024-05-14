@@ -1,5 +1,11 @@
 # dashboard
 
+## 0.2.9
+
+### Patch Changes
+
+- 099a124: update homepage
+
 ## 0.2.8
 
 ### Patch Changes
