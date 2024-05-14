@@ -1,5 +1,11 @@
 # dashboard
 
+## 0.3.1
+
+### Patch Changes
+
+- 5284d5d: fix css for production builds
+
 ## 0.3.0
 
 ### Minor Changes
