@@ -1,5 +1,11 @@
 # dashboard
 
+## 0.4.1
+
+### Patch Changes
+
+- a99fb9f: Small update to the homepage
+
 ## 0.4.0
 
 ### Minor Changes
