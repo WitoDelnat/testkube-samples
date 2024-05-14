@@ -1,5 +1,11 @@
 # dashboard
 
+## 0.3.0
+
+### Minor Changes
+
+- dd8f290: changed one line
+
 ## 0.2.9
 
 ### Patch Changes
