@@ -3,7 +3,7 @@ on:
 
 concurrency:
   group: foo
-  max: 1
+  cancelInProgress: 1
 
 jobs:
   my_job:
